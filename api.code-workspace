@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../xampp/htdocs/api"
+		},
+		{
+			"path": "../xampp/htdocs/forapi"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
